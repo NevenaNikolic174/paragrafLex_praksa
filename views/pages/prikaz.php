@@ -56,7 +56,7 @@ $dohvatiPodatke = dohvati('nosilac');
                                     </tr>
                                 </thead>
                                 <tbody class="dodatna-lica-tbody">
-                                    <!-- dinamicki ispis -->
+                                    <!-- dinamicki ispis iz JS -->
                                 </tbody>
                             </table>
                         </td>
