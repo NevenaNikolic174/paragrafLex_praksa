@@ -42,9 +42,6 @@ $dohvatiPodatke = dohvati('nosilac');
                         <td>
                             <?php if ($red->id_polisa === "2"): ?>
                                 <button class="btn btn-primary prikazi-dodatna-lica"  data-id-nosilac="<?php echo $red->id_nosilac; ?>">Prikaži dodatna lica</button>
-                                <ul class="dodatna-lica-lista" style="display: none;">
-                                
-                            </ul>
                             <?php endif; ?>
                         </td>
                     </tr>
