@@ -1,0 +1,35 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+}
+
+.error {
+    color: red;
+}
+
+#dodatnaLica {
+    margin: 3rem 2rem;
+    padding: 3em;
+    background-color: #bfb5b536;
+}
+
+.alert {
+    margin: 1rem;
+    width: 15%;
+    text-align: center;
+}
+label {
+    font-size: 15px;
+}
+span {
+    color: red;
+    font-weight: bolder;
+    padding: 5px;
+}
+#dugmePotvrda {
+    float: right;
+}
+footer {
+    margin: 7rem 0rem 0rem 0rem;
+}
+
